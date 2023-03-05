@@ -22,6 +22,7 @@ int main()
     scanf("%d", &b);
 
     puts("### ANTES DE CHAMAR A FUNCAO");
+
     printf("&a = %p, a = %d\n", &a, a);
     printf("&b = %p, b = %d\n", &b, b);
     printf("&c = %p, c = %d\n\n", &c, c);
